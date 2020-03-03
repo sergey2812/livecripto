@@ -1,0 +1,1353 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: ajax\n"
+"X-Poedit-SearchPath-1: engine\n"
+
+#: ajax/adverts/add_advert.php:37 ajax/adverts/add_to_archive.php:25
+#: ajax/adverts/get_deal_feedback.php:22 ajax/adverts/open_incident.php:27
+#: ajax/adverts/update_advert.php:34
+msgid "Проверьте правильность заполнения формы"
+msgstr "Check that all fields are completed correctly"
+
+#: ajax/adverts/add_advert.php:41 ajax/adverts/add_to_archive.php:32
+#: ajax/adverts/create_deal.php:27 ajax/adverts/get_deal_feedback.php:26
+#: ajax/adverts/open_incident.php:34 ajax/adverts/update_advert.php:38
+#: ajax/chat/create_chat.php:27 ajax/chat/get_chat.php:26
+#: ajax/chat/send_message.php:27 ajax/files/upload_photo.php:26
+#: ajax/sections/get_categories.php:36 ajax/sections/get_subcategories.php:36
+#: ajax/users/login.php:27 ajax/users/register.php:58
+#: ajax/users/set_wallets.php:61 ajax/users/update.php:46 engine/Users.php:113
+msgid "Пожалуйста, заполните все поля"
+msgstr "Please fill in all fields"
+
+#: ajax/adverts/add_to_archive.php:28 ajax/adverts/open_incident.php:30
+#: ajax/adverts/update_advert.php:41
+msgid "Вы не автор этого объявления"
+msgstr "You are not the author of this ad"
+
+#: ajax/adverts/close_deal.php:29 ajax/adverts/update_received.php:28
+msgid "Вы не покупатель этого объявления"
+msgstr "You are not the buyer of this ad"
+
+#: ajax/adverts/close_deal.php:32
+msgid "Указана неверная оценка."
+msgstr "You have entered the wrong grade."
+
+#: ajax/adverts/close_deal.php:35 ajax/adverts/update_delivered.php:32
+#: ajax/adverts/update_pay.php:32 ajax/adverts/update_received.php:32
+msgid "Пожалуйста, заполните все поля."
+msgstr "Please fill in all fields."
+
+#: ajax/adverts/create_deal.php:24
+msgid "Ошибка создания сделки"
+msgstr "Transaction creation error"
+
+#: ajax/adverts/toggle_favorite_advert.php:26
+msgid "Пожалуйста, выберите объявление"
+msgstr "Please select an ad"
+
+#: ajax/adverts/update_delivered.php:28 ajax/adverts/update_pay.php:28
+msgid "Вы не владалец этого объявления"
+msgstr "You are not the owner of this ad"
+
+#: ajax/files/upload_photo.php:22
+msgid "Файл не является картинкой или превышет размер 10Мб"
+msgstr "The file is not a valid image or its size is larger than 10 Mb"
+
+#: ajax/phrases.php:10
+msgid "Работы"
+msgstr "Works"
+
+#: ajax/phrases.php:11
+msgid "Товары"
+msgstr "Goods"
+
+#: ajax/phrases.php:12
+msgid "Услуги"
+msgstr "Services"
+
+#: ajax/phrases.php:13
+msgid "Мотоциклы"
+msgstr "Motorcycles"
+
+#: ajax/phrases.php:14
+msgid "Автомобили"
+msgstr "Vehicles"
+
+#: ajax/phrases.php:15
+msgid "Ремонт квартир"
+msgstr "Apartment repair"
+
+#: ajax/phrases.php:16
+msgid "Консультирование"
+msgstr "Consulting"
+
+#: ajax/phrases.php:17
+msgid "Защита прав потребителей"
+msgstr "Consumer rights protection"
+
+#: ajax/phrases.php:18
+msgid "Грузовой транспорт"
+msgstr "Freight traffic"
+
+#: ajax/phrases.php:19
+msgid "Судебные споры"
+msgstr "Legal cases"
+
+#: ajax/phrases.php:20
+msgid "Ремонт офисов"
+msgstr "Office repair"
+
+#: ajax/phrases.php:21
+msgid "Полиграфия"
+msgstr "Printing"
+
+#: ajax/phrases.php:22
+msgid "Дизайн сайтов"
+msgstr "Website design"
+
+#: ajax/phrases.php:23
+msgid "Создание сайтов"
+msgstr "Website development"
+
+#: ajax/phrases.php:24
+msgid "Продвижеиние сайтов"
+msgstr "Website promotion"
+
+#: ajax/phrases.php:25
+msgid "Программирование"
+msgstr "Programming"
+
+#: ajax/phrases.php:26
+msgid "Телефоны"
+msgstr "Phones"
+
+#: ajax/phrases.php:27
+msgid "Компьютеры"
+msgstr "Computers"
+
+#: ajax/phrases.php:28
+msgid "Установка ПО"
+msgstr "Software installation"
+
+#: ajax/phrases.php:29
+msgid "Курьеры"
+msgstr "Couriers"
+
+#: ajax/phrases.php:30
+msgid "Грузчики"
+msgstr "Movers"
+
+#: ajax/phrases.php:31
+msgid "Междугородние перевозки"
+msgstr "Long hauls"
+
+#: ajax/phrases.php:32
+msgid "Доставка еды"
+msgstr "Food delivery"
+
+#: ajax/phrases.php:33
+msgid "Дома"
+msgstr "Houses"
+
+#: ajax/phrases.php:34
+msgid "Ремонт домов"
+msgstr "House repair"
+
+#: ajax/phrases.php:35
+msgid "Строительство домов"
+msgstr "House construction"
+
+#: ajax/phrases.php:36
+msgid "Спецтехника"
+msgstr "Special equipment"
+
+#: ajax/phrases.php:37
+msgid "Водный транспорт"
+msgstr "Water transport"
+
+#: ajax/phrases.php:38
+msgid "Электротранспорт"
+msgstr "Electric transport"
+
+#: ajax/phrases.php:39
+msgid "Велотранспорт"
+msgstr "Cycling transport"
+
+#: ajax/phrases.php:40
+msgid "Квартиры"
+msgstr "Apartments"
+
+#: ajax/phrases.php:41
+msgid "Комнаты"
+msgstr "Rooms"
+
+#: ajax/phrases.php:42
+msgid "Земельные участки"
+msgstr "Land lots"
+
+#: ajax/phrases.php:43
+msgid "Гаражи"
+msgstr "Garages"
+
+#: ajax/phrases.php:44
+msgid "Коммерческая недвижимость"
+msgstr "Commercial real estate"
+
+#: ajax/phrases.php:45
+msgid "Планшеты"
+msgstr "Tablets"
+
+#: ajax/phrases.php:46
+msgid "Ноутбуки"
+msgstr "Laptops"
+
+#: ajax/phrases.php:47
+msgid "Телевизоры"
+msgstr "TV sets"
+
+#: ajax/phrases.php:48
+msgid "Умные часы"
+msgstr "Smartwatch"
+
+#: ajax/phrases.php:49
+msgid "Рации"
+msgstr "Radio terminals"
+
+#: ajax/phrases.php:50
+msgid "Принтеры"
+msgstr "Printers"
+
+#: ajax/phrases.php:51
+msgid "Сканеры"
+msgstr "Scanners"
+
+#: ajax/phrases.php:52
+msgid "Вытяжки"
+msgstr "Stove hoods"
+
+#: ajax/phrases.php:53
+msgid "Весы"
+msgstr "Scales"
+
+#: ajax/phrases.php:54
+msgid "Плиты, духовые шкафы"
+msgstr "Stoves and ovens"
+
+#: ajax/phrases.php:55
+msgid "Пылесосы"
+msgstr "Vacuum cleaners"
+
+#: ajax/phrases.php:56
+msgid "Холодильники"
+msgstr "Refrigerators"
+
+#: ajax/phrases.php:57
+msgid "Стиральные машины"
+msgstr "Washing machines"
+
+#: ajax/phrases.php:58
+msgid "Посудомоечные машины"
+msgstr "Dishwashers"
+
+#: ajax/phrases.php:59
+msgid "Бленедеры"
+msgstr "Blenders"
+
+#: ajax/phrases.php:60
+msgid "Автоюрист"
+msgstr "Traffic lawyer"
+
+#: ajax/phrases.php:61
+msgid "Вопросы по наследованию"
+msgstr "Inheritance issues"
+
+#: ajax/phrases.php:62
+msgid "Жилищные споры"
+msgstr "Housing disputes"
+
+#: ajax/phrases.php:63
+msgid "Семейные споры"
+msgstr "Family disputes"
+
+#: ajax/phrases.php:64
+msgid "Трудовое право"
+msgstr "Labor law"
+
+#: ajax/phrases.php:65
+msgid "Реклама на телевидении"
+msgstr "TV advertising"
+
+#: ajax/phrases.php:66
+msgid "Радиореклама"
+msgstr "Radio advertising"
+
+#: ajax/phrases.php:67
+msgid "Реклама в газетах, журналах"
+msgstr "Newspaper and magazine advertising"
+
+#: ajax/phrases.php:68
+msgid "Реклама в интернете"
+msgstr "Internet advertising"
+
+#: ajax/phrases.php:69
+msgid "Уличная реклама"
+msgstr "Street advertising"
+
+#: ajax/phrases.php:70
+msgid "Реклама в помещениях"
+msgstr "Indoor advertising"
+
+#: ajax/phrases.php:71
+msgid "Реклама на транспорте"
+msgstr "Transport advertising"
+
+#: ajax/phrases.php:72
+msgid "Прием, консультации"
+msgstr "Reception, consulting"
+
+#: ajax/phrases.php:73
+msgid "Психолог"
+msgstr "Psychologist"
+
+#: ajax/phrases.php:74
+msgid "Массаж"
+msgstr "Massage"
+
+#: ajax/phrases.php:75
+msgid "Неврология"
+msgstr "Neurology"
+
+#: ajax/phrases.php:76
+msgid "ЛФК"
+msgstr "Physical therapy"
+
+#: ajax/phrases.php:77
+msgid "Транспорт"
+msgstr "Transport"
+
+#: ajax/phrases.php:78
+msgid "Юр. услуги"
+msgstr "Legal services"
+
+#: ajax/phrases.php:79
+msgid "Медицина"
+msgstr "Healthcare"
+
+#: ajax/phrases.php:80
+msgid "Реклама"
+msgstr "Advertising"
+
+#: ajax/phrases.php:81
+msgid "Логистика"
+msgstr "Logistics"
+
+#: ajax/phrases.php:82
+msgid "Электротехника"
+msgstr "Electrical goods"
+
+#: ajax/phrases.php:83
+msgid "IT"
+msgstr "IT"
+
+#: ajax/phrases.php:84
+msgid "Строительство"
+msgstr "Civil engineering"
+
+#: ajax/phrases.php:85
+msgid "Недвижимость"
+msgstr "Real estate"
+
+#: ajax/phrases.php:86
+msgid "Бытовая техника"
+msgstr "Household appliances"
+
+#: ajax/phrases.php:87
+msgid "Разное"
+msgstr "Miscellaneous"
+
+#: ajax/phrases.php:87
+msgid "Личный кабинет"
+msgstr "Dashboard"
+
+#: ajax/sections/get_categories.php:32
+msgid "В этом разделе нет категорий"
+msgstr "There are no categories in this section"
+
+#: ajax/sections/get_subcategories.php:32
+msgid "В этой категории нет подкатегорий"
+msgstr "There are no subcategories in this category"
+
+#: ajax/users/login.php:23
+msgid "Пожалуйста, проверьте правильность ввода логина и пароля"
+msgstr "Please check that the username and password are entered correctly"
+
+#: ajax/users/register.php:24
+msgid "Проверьте правильность введённого логина. Логин должен содержать более 5-ти символов"
+msgstr "Please check that the password is entered correctly. The username should have at least 5 symbols"
+
+#: ajax/users/register.php:27
+msgid "Проверьте правильность введённого e-mail"
+msgstr "Please check that the email is entered correctly"
+
+#: ajax/users/register.php:30
+msgid "Проверьте правильность введённого телефона"
+msgstr "Please check that the phone number is entered correctly"
+
+#: ajax/users/register.php:33
+msgid "Проверьте правильность введённого пароля. Пароль должен быть более 5-ти символов"
+msgstr "Please check that the password is entered correctly. The password should have at least 5 symbols"
+
+#: ajax/users/register.php:55
+msgid "Пароли должны быть одинаковыми"
+msgstr "The passwords should be identical"
+
+#: ajax/users/register.php:61
+msgid "Вы уже зарегистрированы."
+msgstr "You are already registered."
+
+#: ajax/users/set_wallets.php:26
+msgid "Неправильно указан BTC-кошелёк"
+msgstr "Wrong BTC wallet"
+
+#: ajax/users/set_wallets.php:32
+msgid "Неправильно указан ETH-кошелёк"
+msgstr "Wrong ETH wallet"
+
+#: ajax/users/set_wallets.php:38
+msgid "Неправильно указан LTC-кошелёк"
+msgstr "Wrong LTC wallet"
+
+#: ajax/users/set_wallets.php:44
+msgid "Неправильно указан XRP-кошелёк"
+msgstr "Wrong XRP wallet"
+
+#: ajax/users/set_wallets.php:58
+msgid "Неправильно указан пароль"
+msgstr "Wrong password"
+
+#: ajax/users/update.php:39
+msgid "Ошибка обновления данных"
+msgstr "Data update error"
+
+#: ajax/users/update.php:42
+msgid "Проверьте правильность ввода данных"
+msgstr "Please check that the data is entered correctly"
+
+#: engine/Users.php:107
+msgid "Ошибка работы с базой данных. Пожалуйста, повторите попытку."
+msgstr "There was a data base error. Please try again."
+
+#: engine/Users.php:110
+msgid "Такой логин, email или телефон уже зарегистрированы"
+msgstr "This username, email or phone number are already registered"
+
+#: template//advert.tpl:53 template//create_add.tpl:82
+#: template//dashboard/my_adverts.tpl:193
+#: template//dashboard/my_adverts.tpl:249 template//elements/main/rates.tpl:7
+msgid "Цена"
+msgstr "Price"
+
+#: template//advert.tpl:53 template//create_add.tpl:82
+#: template//dashboard/my_adverts.tpl:193
+#: template//dashboard/my_adverts.tpl:249 template//elements/main/rates.tpl:7
+msgid "Просмотров"
+msgstr "Views"
+
+#: template//advert.tpl:57 template//dashboard/my_adverts.tpl:197
+#: template//dashboard/my_adverts.tpl:253
+msgid "Кошелек продавца"
+msgstr "Seller wallet"
+
+#: template//advert.tpl:61 template//dashboard/my_adverts.tpl:201
+#: template//dashboard/my_adverts.tpl:257
+msgid "Оплачено с кошелька"
+msgstr "Paid with a wallet"
+
+#: template//advert.tpl:66 template//advert.tpl:67
+#: template//dashboard/my_adverts.tpl:206
+#: template//dashboard/my_adverts.tpl:207
+#: template//dashboard/my_adverts.tpl:262
+#: template//dashboard/my_adverts.tpl:263
+msgid "QR-код"
+msgstr "QR code"
+
+#: template//advert.tpl:75 template//dashboard/my_adverts.tpl:211
+#: template//dashboard/my_adverts.tpl:267 template//dashboard/my_sells.tpl:47
+msgid "Оплачено"
+msgstr "Paid"
+
+#: template//advert.tpl:91 template//advert.tpl:94 template//advert.tpl:368
+#: template//advert.tpl:371 template//elements/main/header.tpl:13
+#: template//index.tpl:98 template//index.tpl:101
+msgid "Здесь будет ваша реклама"
+msgstr "Your advertisement will be placed here"
+
+#: template//advert.tpl:113 template//create_add.tpl:68
+msgid "Местоположение"
+msgstr "Location"
+
+#: template//advert.tpl:128
+msgid "Обменять"
+msgstr "Exchange"
+
+#: template//advert.tpl:128
+msgid "Написать в чат"
+msgstr "Type in chat"
+
+#: template//advert.tpl:128
+msgid "Добавить в избранное"
+msgstr "Add to bookmarks"
+
+#: template//advert.tpl:129
+msgid "Пожаловаться на объявление"
+msgstr "Report this ad"
+
+#: template//advert.tpl:133
+msgid "Поделиться"
+msgstr "Share"
+
+#: template//advert.tpl:165
+msgid "Похожие объявления"
+msgstr "Similar ads"
+
+#: template//advert.tpl:170 template//dashboard/my_favorites.tpl:25
+#: template//index.tpl:155
+msgid "Объявлений не найдено"
+msgstr "No ads were found"
+
+#: template//advert.tpl:306
+msgid "Рейтинг товара"
+msgstr "Product rating"
+
+#: template//advert.tpl:314
+msgid "О продавце"
+msgstr "About the seller"
+
+#: template//advert.tpl:323 template//advert.tpl:333
+msgid "Показать"
+msgstr "Show"
+
+#: template//advert.tpl:340 template//dashboard/my_adverts.tpl:81
+msgid "Редактировать"
+msgstr "Edit"
+
+#: template//advert.tpl:345
+msgid "Рейтинг"
+msgstr "Rating"
+
+#: template//advert.tpl:351
+msgid "Отзывы"
+msgstr "Reviews"
+
+#: template//advert.tpl:363
+msgid "Посмотреть все отзывы"
+msgstr "View all reviews"
+
+#: template//create_add.tpl:18
+msgid "Редактирование объявления"
+msgstr "Edit an ad"
+
+#: template//create_add.tpl:20
+msgid "Размещение объявления"
+msgstr "Post an ad"
+
+#: template//create_add.tpl:34 template//dashboard/my_adverts.tpl:127
+#: template//index.tpl:43
+msgid "Раздел"
+msgstr "Section"
+
+#: template//create_add.tpl:36
+msgid "Выберите раздел"
+msgstr "Select a section"
+
+#: template//create_add.tpl:43 template//dashboard/my_adverts.tpl:131
+#: template//index.tpl:52
+msgid "Категория"
+msgstr "Category"
+
+#: template//create_add.tpl:49 template//dashboard/my_adverts.tpl:135
+#: template//index.tpl:65
+msgid "Подкатегория"
+msgstr "Subcategory"
+
+#: template//create_add.tpl:58 template//dashboard/my_purchases.tpl:73
+#: template//dashboard/my_purchases.tpl:105
+#: template//dashboard/my_purchases.tpl:147 template//dashboard/my_sells.tpl:27
+#: template//dashboard/my_sells.tpl:61 template//dashboard/my_sells.tpl:103
+msgid "Заголовок"
+msgstr "Title"
+
+#: template//create_add.tpl:58
+msgid "(до 80 знаков)"
+msgstr "(up to 80 characters)"
+
+#: template//create_add.tpl:62
+msgid "Описание"
+msgstr "Description"
+
+#: template//create_add.tpl:62
+msgid "(до 1000 знаков)"
+msgstr "(up to 1000 characters)"
+
+#: template//create_add.tpl:71 template//elements/main/head.tpl:24
+msgid "Весь мир"
+msgstr "Whole world"
+
+#: template//create_add.tpl:73
+msgid "Открыть карту"
+msgstr "Open a map"
+
+#: template//create_add.tpl:84 template//create_add.tpl:92
+#: template//create_add.tpl:100 template//create_add.tpl:108
+msgid "Фиксировать"
+msgstr "Record"
+
+#: template//create_add.tpl:116
+msgid "Способ оплаты"
+msgstr "Payment method"
+
+#: template//create_add.tpl:118
+msgid "Безопасная сделка"
+msgstr "Secured transaction"
+
+#: template//create_add.tpl:119
+msgid "Оплата на прямую"
+msgstr "Direct payment"
+
+#: template//create_add.tpl:125
+msgid "Загрузите фотографии"
+msgstr "Upload photos"
+
+#: template//create_add.tpl:125
+msgid "(размер 1 фото должен быть не более 5 Мб)"
+msgstr "(the photo size should not exceed 5 Mb)"
+
+#: template//create_add.tpl:132
+msgid "Основное фото"
+msgstr "Featured photo"
+
+#: template//create_add.tpl:154 template//dashboard/my_adverts.tpl:216
+msgid "Обновить объявление"
+msgstr "Update an ad"
+
+#: template//create_add.tpl:156
+msgid "Разместить объявление"
+msgstr "Post an ad"
+
+#: template//dashboard/chat.tpl:39
+msgid "Темы чатов"
+msgstr "Chat topics"
+
+#: template//dashboard/chat.tpl:50 template//dashboard/chat.tpl:53
+msgid "Введите текст сообщения"
+msgstr "Type your message here"
+
+#: template//dashboard/chat.tpl:51 template//dashboard/chat.tpl:54
+msgid "Отправить"
+msgstr "Send"
+
+#: template//dashboard/chat.tpl:95
+msgid "У вас начатых чатов"
+msgstr "You have open chats"
+
+#: template//dashboard/elements/header_menu.tpl:2
+#: template//dashboard/elements/sidebar.tpl:8 template//dashboard/index.tpl:11
+#: template//elements/main/header.tpl:152
+msgid "Кабинет"
+msgstr "Account"
+
+#: template//dashboard/elements/header_menu.tpl:3
+#: template//dashboard/my_purchases.tpl:75
+#: template//dashboard/my_purchases.tpl:107
+#: template//dashboard/my_purchases.tpl:149 template//dashboard/my_sells.tpl:29
+#: template//dashboard/my_sells.tpl:63 template//dashboard/my_sells.tpl:105
+#: template//dashboard/wallets.tpl:13 template//dashboard/wallets.tpl:22
+#: template//dashboard/wallets.tpl:40
+msgid "Кошелек"
+msgstr "Wallet"
+
+#: template//dashboard/elements/sidebar.tpl:3
+#: template//dashboard/my_adverts.tpl:13 template//elements/main/header.tpl:147
+msgid "Мои объявления"
+msgstr "My ads"
+
+#: template//dashboard/elements/sidebar.tpl:4
+#: template//dashboard/my_sells.tpl:14 template//elements/main/header.tpl:148
+msgid "Мои продажи"
+msgstr "My sales"
+
+#: template//dashboard/elements/sidebar.tpl:5
+#: template//dashboard/my_purchases.tpl:60
+#: template//elements/main/header.tpl:149
+msgid "Мои покупки"
+msgstr "My purchases"
+
+#: template//dashboard/elements/sidebar.tpl:6
+#: template//dashboard/my_favorites.tpl:13
+#: template//elements/main/header.tpl:150
+msgid "Избранное"
+msgstr "Favorites"
+
+#: template//dashboard/elements/sidebar.tpl:7
+#: template//elements/main/header.tpl:151
+msgid "Чат"
+msgstr "Chat"
+
+#: template//dashboard/elements/sidebar.tpl:9
+#: template//elements/main/header.tpl:153
+msgid "Администрация"
+msgstr "Administration"
+
+#: template//dashboard/elements/sidebar.tpl:10
+msgid "Выход"
+msgstr "Log out"
+
+#: template//dashboard/index.tpl:17 template//dashboard/my_purchases.tpl:74
+#: template//dashboard/my_purchases.tpl:106
+#: template//dashboard/my_purchases.tpl:148 template//dashboard/my_sells.tpl:28
+#: template//dashboard/my_sells.tpl:62 template//dashboard/my_sells.tpl:104
+#: template//elements/main/footer.tpl:74 template//elements/main/footer.tpl:107
+msgid "Логин"
+msgstr "Username"
+
+#: template//dashboard/index.tpl:21 template//elements/main/footer.tpl:111
+msgid "Почта"
+msgstr "Email"
+
+#: template//dashboard/index.tpl:27
+msgid "Телефон"
+msgstr "Phone"
+
+#: template//dashboard/index.tpl:33
+msgid "Изменить пароль"
+msgstr "Change password"
+
+#: template//dashboard/index.tpl:37 template//dashboard/wallets.tpl:57
+#: template//elements/main/footer.tpl:119
+msgid "Повторить пароль"
+msgstr "Retype password"
+
+#: template//dashboard/index.tpl:41 template//dashboard/wallets.tpl:62
+msgid "Сохранить изменения"
+msgstr "Save changes"
+
+#: template//dashboard/my_adverts.tpl:17
+msgid "Активные"
+msgstr "Active"
+
+#: template//dashboard/my_adverts.tpl:18
+msgid "На модерации"
+msgstr "Being moderated"
+
+#: template//dashboard/my_adverts.tpl:19
+msgid "Архив"
+msgstr "Archive"
+
+#: template//dashboard/my_adverts.tpl:80
+msgid "Просмотр"
+msgstr "View"
+
+#: template//dashboard/my_adverts.tpl:82
+msgid "Обновить"
+msgstr "Refresh"
+
+#: template//dashboard/my_adverts.tpl:83
+msgid "В топ-4"
+msgstr "Top 4"
+
+#: template//dashboard/my_adverts.tpl:84
+msgid "В архив"
+msgstr "Archive"
+
+#: template//dashboard/my_adverts.tpl:112
+msgid "Отправить в архив?"
+msgstr "Are you sure you want to archive it?"
+
+#: template//dashboard/my_adverts.tpl:116
+#: template//dashboard/my_purchases.tpl:18 template//elements/main/head.tpl:58
+msgid "Да"
+msgstr "Yes"
+
+#: template//dashboard/my_adverts.tpl:117 template//dashboard/my_sells.tpl:86
+#: template//elements/map_modal.tpl:17
+msgid "Отмена"
+msgstr "Cancel"
+
+#: template//dashboard/my_adverts.tpl:124
+msgid "Разместить в топ-4"
+msgstr "Post in Top 4"
+
+#: template//dashboard/my_adverts.tpl:139
+msgid "Количество"
+msgstr "Number"
+
+#: template//dashboard/my_adverts.tpl:139
+msgid "дней"
+msgstr "of days"
+
+#: template//dashboard/my_adverts.tpl:151
+msgid "Валюта"
+msgstr "Currency"
+
+#: template//dashboard/my_adverts.tpl:161
+msgid "Выбор страниц"
+msgstr "Choose pages"
+
+#: template//dashboard/my_adverts.tpl:163
+msgid "Главная весь мир"
+msgstr "Featured in the whole world"
+
+#: template//dashboard/my_adverts.tpl:164
+msgid "Главная по стране"
+msgstr "Featured by country"
+
+#: template//dashboard/my_adverts.tpl:165
+msgid "Главная по региону"
+msgstr "Featured by region"
+
+#: template//dashboard/my_adverts.tpl:166
+msgid "Главная по городу"
+msgstr "Featured by city"
+
+#: template//dashboard/my_adverts.tpl:177
+msgid "Опубликовано"
+msgstr "Posted"
+
+#: template//dashboard/my_adverts.tpl:181
+#: template//dashboard/my_adverts.tpl:222
+#: template//dashboard/my_adverts.tpl:227
+#: template//dashboard/my_adverts.tpl:232
+#: template//dashboard/my_adverts.tpl:237
+msgid "Оплатить"
+msgstr "Pay"
+
+#: template//dashboard/my_adverts.tpl:187
+msgid "В ТОП-4"
+msgstr "IN TOP 4"
+
+#: template//dashboard/my_adverts.tpl:218
+msgid "Выберите удобный для Вас вариант, чтобы поднять Ваше объявление в списке объявлений"
+msgstr "Please select the best option to boost your ad"
+
+#: template//dashboard/my_adverts.tpl:243
+msgid "Обновление объявления"
+msgstr "Ad update"
+
+#: template//dashboard/my_purchases.tpl:8
+msgid "Завершение сделки"
+msgstr "Transaction completion"
+
+#: template//dashboard/my_purchases.tpl:14
+msgid "Понравилось ли Вам сотрудничество?"
+msgstr "Did you like our work?"
+
+#: template//dashboard/my_purchases.tpl:22 template//elements/main/head.tpl:59
+msgid "Нет"
+msgstr "No"
+
+#: template//dashboard/my_purchases.tpl:27
+msgid "Оцените качество"
+msgstr "Rate us"
+
+#: template//dashboard/my_purchases.tpl:30
+msgid "5 звёзд"
+msgstr "5 stars"
+
+#: template//dashboard/my_purchases.tpl:31
+msgid "4 звёзд"
+msgstr "4 stars"
+
+#: template//dashboard/my_purchases.tpl:32
+msgid "3 звёзд"
+msgstr "3 stars"
+
+#: template//dashboard/my_purchases.tpl:33
+msgid "2 звёзд"
+msgstr "2 stars"
+
+#: template//dashboard/my_purchases.tpl:34
+msgid "1 зевезда"
+msgstr "1 star"
+
+#: template//dashboard/my_purchases.tpl:39
+msgid "Напишите отзыв о продавце и товаре"
+msgstr "Leave a feedback about the seller and the goods"
+
+#: template//dashboard/my_purchases.tpl:39
+msgid "(не более 200 знаков)"
+msgstr "(up to 200 characters)"
+
+#: template//dashboard/my_purchases.tpl:44
+msgid "Оставить отзыв"
+msgstr "Leave a feedback"
+
+#: template//dashboard/my_purchases.tpl:62 template//dashboard/my_sells.tpl:16
+msgid "На проверке"
+msgstr "Pending"
+
+#: template//dashboard/my_purchases.tpl:63 template//dashboard/my_sells.tpl:17
+msgid "Открытые"
+msgstr "Open"
+
+#: template//dashboard/my_purchases.tpl:64 template//dashboard/my_sells.tpl:18
+msgid "Закрытые"
+msgstr "Closed"
+
+#: template//dashboard/my_purchases.tpl:73
+#: template//dashboard/my_purchases.tpl:105
+#: template//dashboard/my_purchases.tpl:147 template//dashboard/my_sells.tpl:27
+#: template//dashboard/my_sells.tpl:61 template//dashboard/my_sells.tpl:103
+msgid "объявления"
+msgstr "ads"
+
+#: template//dashboard/my_purchases.tpl:74
+#: template//dashboard/my_purchases.tpl:75
+#: template//dashboard/my_purchases.tpl:106
+#: template//dashboard/my_purchases.tpl:107
+#: template//dashboard/my_purchases.tpl:148
+#: template//dashboard/my_purchases.tpl:149 template//dashboard/my_sells.tpl:28
+#: template//dashboard/my_sells.tpl:29 template//dashboard/my_sells.tpl:62
+#: template//dashboard/my_sells.tpl:63 template//dashboard/my_sells.tpl:104
+#: template//dashboard/my_sells.tpl:105
+msgid "продавца"
+msgstr "by seller"
+
+#: template//dashboard/my_purchases.tpl:76
+#: template//dashboard/my_purchases.tpl:108
+#: template//dashboard/my_purchases.tpl:150 template//dashboard/my_sells.tpl:30
+#: template//dashboard/my_sells.tpl:64 template//dashboard/my_sells.tpl:106
+msgid "Сумма"
+msgstr "Amount"
+
+#: template//dashboard/my_purchases.tpl:76
+#: template//dashboard/my_purchases.tpl:108
+#: template//dashboard/my_purchases.tpl:150 template//dashboard/my_sells.tpl:30
+#: template//dashboard/my_sells.tpl:64 template//dashboard/my_sells.tpl:106
+msgid "платежа"
+msgstr "of payment"
+
+#: template//dashboard/my_purchases.tpl:77
+#: template//dashboard/my_purchases.tpl:109
+#: template//dashboard/my_purchases.tpl:151 template//dashboard/my_sells.tpl:31
+#: template//dashboard/my_sells.tpl:65 template//dashboard/my_sells.tpl:107
+msgid "Дата"
+msgstr "Date"
+
+#: template//dashboard/my_purchases.tpl:77
+#: template//dashboard/my_purchases.tpl:109
+#: template//dashboard/my_purchases.tpl:151 template//dashboard/my_sells.tpl:31
+#: template//dashboard/my_sells.tpl:65 template//dashboard/my_sells.tpl:107
+msgid "оплаты"
+msgstr "of payment"
+
+#: template//dashboard/my_purchases.tpl:78
+msgid "Статус"
+msgstr "Status"
+
+#: template//dashboard/my_purchases.tpl:78
+msgid "доставки"
+msgstr "of delivery"
+
+#: template//dashboard/my_purchases.tpl:92
+#: template//dashboard/my_purchases.tpl:127
+msgid "Ожидаем продавца"
+msgstr "Waiting for the seller"
+
+#: template//dashboard/my_purchases.tpl:96
+#: template//dashboard/my_purchases.tpl:138
+msgid "Нет покупок"
+msgstr "No products in the cart"
+
+#: template//dashboard/my_purchases.tpl:129
+msgid "Получен"
+msgstr "Received"
+
+#: template//dashboard/my_purchases.tpl:130
+msgid "Не получен"
+msgstr "Not received"
+
+#: template//dashboard/my_purchases.tpl:133 template//dashboard/my_sells.tpl:89
+#: template//dashboard/my_sells.tpl:127
+msgid "В арбитраже"
+msgstr "Arbitration"
+
+#: template//dashboard/my_sells.tpl:46
+msgid "Не оплачен"
+msgstr "Not paid"
+
+#: template//dashboard/my_sells.tpl:48
+msgid "Не оплачено"
+msgstr "Not paid"
+
+#: template//dashboard/my_sells.tpl:52 template//dashboard/my_sells.tpl:94
+#: template//dashboard/my_sells.tpl:132
+msgid "Нет продаж"
+msgstr "No sales"
+
+#: template//dashboard/my_sells.tpl:83
+msgid "Ожидаем подтверждения покупателя"
+msgstr "Pending buyer's approval"
+
+#: template//dashboard/my_sells.tpl:85
+msgid "Доставлено"
+msgstr "Delivered"
+
+#: template//dashboard/my_sells.tpl:108 template//dashboard/my_sells.tpl:152
+msgid "Оценка"
+msgstr "Grade"
+
+#: template//dashboard/my_sells.tpl:108
+msgid "клиентом"
+msgstr "by the client"
+
+#: template//dashboard/my_sells.tpl:109
+msgid "Оспорить"
+msgstr "Challenge"
+
+#: template//dashboard/my_sells.tpl:109
+msgid "оценку"
+msgstr "a grade"
+
+#: template//dashboard/my_sells.tpl:124
+msgid "Посмотреть"
+msgstr "View"
+
+#: template//dashboard/my_sells.tpl:125
+msgid "В арбитраж"
+msgstr "Arbitration"
+
+#: template//dashboard/my_sells.tpl:145
+msgid "Отзыв клиента"
+msgstr "Client feedback"
+
+#: template//dashboard/my_sells.tpl:148
+msgid "Понравилось ли сотрудничество"
+msgstr "Did you like our work?"
+
+#: template//dashboard/wallets.tpl:34 template//dashboard/wallets.tpl:51
+msgid "Добавить кошелек +"
+msgstr "Add wallet +"
+
+#: template//elements/main/footer.tpl:15 template//pages/help/sidebar.tpl:7
+#: template//pages/help.tpl:17 template//pages/terms_of_use.tpl:6
+msgid "Пользовательское соглашение"
+msgstr "User agreement"
+
+#: template//elements/main/footer.tpl:16
+msgid "Политика Cookie"
+msgstr "Cookie policy"
+
+#: template//elements/main/footer.tpl:17 template//pages/help/menu.tpl:6
+#: template//pages/help.tpl:37
+msgid "Помощь"
+msgstr "Help"
+
+#: template//elements/main/footer.tpl:28
+msgid "Разработано"
+msgstr "Developed"
+
+#: template//elements/main/footer.tpl:28
+msgid "в Brain Design"
+msgstr "by Brain Design"
+
+#: template//elements/main/footer.tpl:36 template//elements/main/header.tpl:23
+msgid "Логотип"
+msgstr "Logo"
+
+#: template//elements/main/footer.tpl:40
+#: template//pages/support_the_project.tpl:6
+msgid "Поддержать проект"
+msgstr "Support this project"
+
+#: template//elements/main/footer.tpl:49
+msgid "Купить криптовалюту"
+msgstr "Buy cryptocurrency"
+
+#: template//elements/main/footer.tpl:54 template//pages/wishes.tpl:6
+msgid "Пожелания"
+msgstr "Recommendations"
+
+#: template//elements/main/footer.tpl:65 template//elements/main/footer.tpl:98
+msgid "Вход"
+msgstr "Log in"
+
+#: template//elements/main/footer.tpl:68 template//elements/main/footer.tpl:101
+msgid "Регистрация"
+msgstr "Sign up"
+
+#: template//elements/main/footer.tpl:78 template//elements/main/footer.tpl:115
+msgid "Пароль"
+msgstr "Passwor"
+
+#: template//elements/main/footer.tpl:82 template//elements/main/footer.tpl:123
+msgid "Авторизоваться через"
+msgstr "Connect with"
+
+#: template//elements/main/footer.tpl:88
+msgid "Войти"
+msgstr "Sign in"
+
+#: template//elements/main/footer.tpl:129
+msgid "Зарегистрироваться"
+msgstr "Register"
+
+#: template//elements/main/head.tpl:25
+msgid "Местоположение..."
+msgstr "Location..."
+
+#: template//elements/main/head.tpl:26
+msgid "Введите текст сообщение"
+msgstr "Type your message here"
+
+#: template//elements/main/head.tpl:27
+msgid "Выберите криптовалюту"
+msgstr "Select cryptocurrency"
+
+#: template//elements/main/head.tpl:27
+msgid "Загрузка..."
+msgstr "Loading..."
+
+#: template//elements/main/head.tpl:31
+msgid "Пожалуйста, укажите"
+msgstr "Please specify"
+
+#: template//elements/main/head.tpl:32
+msgid "кошелёк в настройках."
+msgstr "the wallet in settings."
+
+#: template//elements/main/head.tpl:37
+msgid "Объявление добавлено в избранное"
+msgstr "Ad has been added to favorites"
+
+#: template//elements/main/head.tpl:38
+msgid "Объявление удалено из избранного"
+msgstr "The ad was deleted from favorites"
+
+#: template//elements/main/head.tpl:39 template//elements/main/head.tpl:49
+#: template//elements/main/head.tpl:53
+msgid "Произошла неизвестная ошибка при загрузкей файла"
+msgstr "An unknown error occurred while uploading the file"
+
+#: template//elements/main/head.tpl:42 template//elements/main/head.tpl:45
+msgid "Произошла неизвестная ошибка. Пожалуйста, попробуйте ещё раз."
+msgstr "An unknown error occurred. Please try again."
+
+#: template//elements/main/head.tpl:46
+msgid "Ошибка связи с сервером. Пожалуйста, попробуйте ещё раз."
+msgstr "There was an error contacting the server. Please try again."
+
+#: template//elements/main/head.tpl:50 template//index.tpl:45
+#: template//index.tpl:55 template//index.tpl:60 template//index.tpl:68
+#: template//index.tpl:73 template//index.tpl:80 template//index.tpl:89
+msgid "Выбрать"
+msgstr "Select"
+
+#: template//elements/main/header.tpl:30
+msgid "Все"
+msgstr "All"
+
+#: template//elements/main/header.tpl:53
+msgid "О компании"
+msgstr "About the Company"
+
+#: template//elements/main/header.tpl:140
+msgid "Вход/Регистрация"
+msgstr "Log in/Sign up"
+
+#: template//elements/main/header.tpl:142
+msgid "Привет"
+msgstr "Welcome"
+
+#: template//elements/main/header.tpl:158
+msgid "Опубликовать"
+msgstr "Post"
+
+#: template//elements/main/rates.tpl:6
+msgid "Название"
+msgstr "Name"
+
+#: template//elements/main/rates.tpl:8
+msgid "Динамика"
+msgstr "Dynamics"
+
+#: template//elements/main/rates.tpl:20
+msgid "Ошибка загрузки курсов"
+msgstr "Course loading error"
+
+#: template//elements/main/sort.tpl:3 template//index.tpl:142
+msgid "Сортировать"
+msgstr "Sort"
+
+#: template//elements/main/sort.tpl:5
+msgid "По новизне"
+msgstr "by latest"
+
+#: template//elements/main/sort.tpl:6
+msgid "По возрастанию"
+msgstr "in ascending order"
+
+#: template//elements/main/sort.tpl:7
+msgid "По убыванию"
+msgstr "in descending order"
+
+#: template//elements/map_modal.tpl:9
+msgid "Выберите местоположение, где хотите найти товар"
+msgstr "Select the location of the goods"
+
+#: template//elements/map_modal.tpl:14
+msgid "Применить"
+msgstr "Apply"
+
+#: template//index.tpl:22
+msgid "Поиск"
+msgstr "Search"
+
+#: template//index.tpl:38
+msgid "во всем мире"
+msgstr "worldwide"
+
+#: template//index.tpl:40
+msgid "открыть карту"
+msgstr "open map"
+
+#: template//index.tpl:78
+msgid "Размещено"
+msgstr "Posted"
+
+#: template//index.tpl:87
+msgid "Оплата"
+msgstr "Payment"
+
+#: template//index.tpl:94
+msgid "Применить фильтры"
+msgstr "Apply filters"
+
+#: template//index.tpl:112
+msgid "Все продукты"
+msgstr "All products"
+
+#: template//index.tpl:121
+msgid "Главная"
+msgstr "Home"
+
+#: template//index.tpl:121 template//index.tpl:125
+msgid "Товары продавца"
+msgstr "Seller's products"
+
+#: template//index.tpl:144
+msgid "Актуальность"
+msgstr "Relevance"
+
+#: template//pages/about_us.tpl:6
+msgid "О нас"
+msgstr "About us"
+
+#: template//pages/cookie_policy.tpl:6
+msgid "Политика cookie"
+msgstr "Cookie policy"
+
+#: template//pages/help/1.tpl:6 template//pages/help/menu.tpl:3
+#: template//pages/help.tpl:11
+msgid "Правила сервиса"
+msgstr "Terms of service"
+
+#: template//pages/help/1.tpl:13
+msgid "Общие требования к размещению объявлений"
+msgstr "Ad posting general terms"
+
+#: template//pages/help/menu.tpl:2 template//pages/help.tpl:7
+msgid "Поддержка пользователей"
+msgstr "User support"
+
+#: template//pages/help/menu.tpl:4
+msgid "Мобильное приложение"
+msgstr "Mobile app"
+
+#: template//pages/help/menu.tpl:5 template//pages/help.tpl:25
+msgid "Взаимодействие пользователей"
+msgstr "Users' interaction"
+
+#: template//pages/help/sidebar.tpl:3 template//pages/help.tpl:13
+msgid "Общие требования к размещению объявления"
+msgstr "Ad posting general terms"
+
+#: template//pages/help/sidebar.tpl:4 template//pages/help.tpl:14
+msgid "Запрещенные товары и услуги"
+msgstr "Prohibited goods and services"
+
+#: template//pages/help/sidebar.tpl:5 template//pages/help.tpl:15
+msgid "Требования к описанию товара или услуги"
+msgstr "Goods and services description requirements"
+
+#: template//pages/help/sidebar.tpl:6 template//pages/help.tpl:16
+msgid "Требования к фотографиям"
+msgstr "Photo requirements"
+
+#: template//pages/help/sidebar.tpl:8 template//pages/help.tpl:18
+msgid "Правила защиты информации"
+msgstr "Information security terms"
+
+#: template//pages/help/sidebar.tpl:9 template//pages/help.tpl:19
+msgid "Оферта сервиса Безопасная сделка"
+msgstr "Service offer Secured transaction"
+
+#: template//pages/help.tpl:27 template//pages/help.tpl:39
+msgid "Отправка и получение сообщений"
+msgstr "Sending and receiving of messages"
+
+#: template//pages/help.tpl:28 template//pages/help.tpl:40
+msgid "Телефонные звонки"
+msgstr "Phone calls"
+
+#: template//pages/help.tpl:29 template//pages/help.tpl:41
+msgid "Как оставлять и получать оценки и отзывы"
+msgstr "How to rate and review"
+
+#: template//pages/help.tpl:30 template//pages/help.tpl:42
+msgid "Поделиться ссылкой на объявление/пользователя"
+msgstr "Share the ad/user link"
+
+#: template//pages/help.tpl:31 template//pages/help.tpl:43
+msgid "Как пожаловаться на объявление, сообщение, пользователя"
+msgstr "How to report the ad, message, user"
+
+#: template//advert.tpl:417
+msgid "Неверная категория"
+msgstr "Invalid category"
+
+#: template//advert.tpl:420
+msgid "Запрещенный товар"
+msgstr "Prohibited goods"
+
+#: template//advert.tpl:423
+msgid "Товар продан"
+msgstr "Item sold"
+
+#: template//advert.tpl:426
+msgid "Некорректное описание"
+msgstr "Incorrect description"
+
+#: template//advert.tpl:429
+msgid "Продавец не отвечает более 7 дней"
+msgstr "Seller does not respond more than 7 days"
+
+#: template//advert.tpl:432
+msgid "Мошенник"
+msgstr "Scam"
+
+#: template//advert.tpl:435
+msgid "Другое нарушение"
+msgstr "Other violation"

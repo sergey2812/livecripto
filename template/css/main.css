@@ -1,0 +1,24 @@
+/* FONTS */
+@font-face {
+  font-family: 'EuroStyle Normal';
+  src: url('fonts/eurostyle_normal.eot'); /* IE9 Compat Modes */
+  src: url('fonts/eurostyle_normal.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/eurostyle_normal.otf') format('otf'), /* Super Modern Browsers */
+       url('fonts/eurostyle_normal.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/eurostyle_normal.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/eurostyle_normal.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+/* MAIN */
+body {
+	font-family: 'EuroStyle Normal', sans-serif;
+}
+a {
+	text-decoration: none !important;
+	transition: all .3s;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+/* HEADER */
+/* FOOTER */

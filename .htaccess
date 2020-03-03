@@ -1,0 +1,5 @@
+AuthName "Authentication required"
+AuthType Basic
+require valid-user
+AuthUserFile /home/host1268622/liveincrypto.com/htdocs/www/.htpasswd
+ErrorDocument 404 /404.php

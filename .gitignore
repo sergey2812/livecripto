@@ -1,0 +1,7 @@
+templates_c/
+composer/
+documents/
+files/
+*.pot
+*.sql
+Config.php
